@@ -1,1 +1,3 @@
-You can Download the dataset as given, and make sure to change the path of the daataset while reading the file according to your system's file/folder location
+Please download the dataset from the provided link. Ensure that you adjust the dataset path in your code to match the file's specific location on your system.
+
+https://files.grouplens.org/datasets/movielens/ml-25m.zip
